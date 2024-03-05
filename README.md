@@ -1,3 +1,11 @@
+# More Xnderwire
+  I'm here to add my own touches to the Xenderwire enclosure project.
+  
+  Thank you to Synyster on discord for providing me with the CAD files for this project.
+
+<details>
+  <summary>Old Description</summary>
+
 # Xnderwire
   My own spinoff of [DaRk_dOg's Ender 3 Pro to Switchwire conversion](https://github.com/boubounokefalos/Ender_SW). 
 
@@ -17,3 +25,4 @@
 ## Y Axis 9mm Belt Mod
   The idler and carriage have been modified to use 9mm belt instead of 6mm. 
   
+  </details>
